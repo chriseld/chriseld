@@ -4,4 +4,4 @@ Chris Eld is a full-stack web developer, recently graduated from the UNCC Web De
 
 #### Currently Working On:
 
-My primary personal project right now is a from-scratch Content Management System (CMS) made with Node.js, MySql, and Express. It's still early days, but you can find the repo on my profile!
+My primary personal project right now is a from-scratch Content Management System (CMS) made with Node.js, Sql, and Express, to be hosted on Azure. It's still early days, but you can find the repo on my profile!
